@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — WAITED 13 YEARS FOR GTA 6 (entry 3/3, @zoelicious4843)
+# gta6-meme-x-01 — CALLING IN SICK FOR GTA 6 (entry 2/3, @zoelicious4843)
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-aa/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -10,17 +10,27 @@ account, and this repository hands in the post's address.
 
 ## The meme
 
-A comic-book gaming room. After 13 years of waiting for GTA 6, the make.fun
-ghost sits in a gaming chair holding a controller, grinning, while the
-monitor behind it shows GTA VI at 98% downloaded — with Lucia and Jason
-laughing behind the chair.
+A comic-book office scene. On GTA 6 launch day, the make.fun ghost calls
+in sick from its desk — office shirt, loose tie, phone in one hand and a
+magenta coin with a white star in the other — while a doctor's note on the
+desk reads "APPROVED - REST DAY", a GTA VI game case sits beside the phone,
+and a "make.fun" mug and poster are in the scene, with the Vice City skyline
+through the window.
 
 - Image: `meme-aa.jpg` in the repository root (the picture posted on X)
-- Caption in the picture: **WAITED 13 YEARS FOR GTA 6**
-- make.fun's ghost, logo and name are all in the picture
+- Caption in the picture: **CALLING IN SICK FOR GTA 6**
+- make.fun's ghost, logo and name are all in the picture — the ghost holds
+  the magenta coin, and "make.fun" is written on the mug and the poster
 - Visual check (at full size and at 480x480): ghost instantly recognisable
-  with smile and star eyes, caption readable at a glance, no garbled text,
-  one joke only
+  with star eyes and the magenta coin, caption readable at a glance, one
+  joke only — calling in sick for launch day
+
+This is the second entry (2/3) for this account. It replaces the first
+entry under the competition's Force_Last rule: the 1/3 meme was the same
+"WAITED 13 YEARS" joke the other two accounts also used, with no "make.fun"
+writing in the picture and no magenta coin. This 2/3 fixes all three: the
+name "make.fun" is written inside the picture, the ghost holds the magenta
+coin, and the joke is different from the other accounts'.
 
 ## The post
 
