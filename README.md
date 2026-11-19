@@ -1,4 +1,8 @@
-# gta6-meme-x-01 — WASTED → PAID (entry 3/3, @zoelicious4843)
+# gta6-meme-x-01 — WAITED 13 YEARS FOR GTA 6 (entry 3/3, @zoelicious4843)
+
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-aa/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-aa/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X" — $500 shared
 by the top 50. The meme is the entry: it is posted on X from a public
@@ -6,19 +10,17 @@ account, and this repository hands in the post's address.
 
 ## The meme
 
-A parody of the GTA death screen. After 13 years of waiting for GTA 6, the
-player is WASTED — crossed out — because the make.fun ghost already got
-PAID. Night-time Vice City, wet neon street, the ghost smiling with star
-eyes, holding a gold dollar coin in its outstretched hand.
+A comic-book gaming room. After 13 years of waiting for GTA 6, the make.fun
+ghost sits in a gaming chair holding a controller, grinning, while the
+monitor behind it shows GTA VI at 98% downloaded — with Lucia and Jason
+laughing behind the chair.
 
-- Image: `meme-aa.jpg` in the competition folder (the picture posted on X)
-- Caption in the picture: **PAID** — with a small crossed-out **WASTED**
-  above it and **13 YEARS WASTED. MY AGENT GOT PAID.** below
+- Image: `meme-aa.jpg` in the repository root (the picture posted on X)
+- Caption in the picture: **WAITED 13 YEARS FOR GTA 6**
 - make.fun's ghost, logo and name are all in the picture
-- Visual check (by the coordinator, at full size and at 480x480): ghost
-  instantly recognisable with smile and star eyes, PAID readable at a
-  glance, no garbled text, one joke only — a clean, dark night scene,
-  deliberately different from the bright sunset meme of entry 1/3
+- Visual check (at full size and at 480x480): ghost instantly recognisable
+  with smile and star eyes, caption readable at a glance, no garbled text,
+  one joke only
 
 ## The post
 
@@ -40,8 +42,7 @@ address. Run it like the grader:
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`POST.json` currently holds a placeholder address. The submitter replaces it
-with the real post URL before submitting.
+`POST.json` holds the real post URL on X.
 
 ## About make.fun
 
