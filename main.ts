@@ -1,4 +1,5 @@
 // gta6-meme-x-01 entry for @zoelicious4843 (Node 22, standard library only).
+// Entry 3/3: the user's own Steam purchase receipt image (meme-aa-3of3.jpg).
 // The entry is the X post itself: this program only hands the house the
 // post's address by copying POST.json from the repo root to /output/POST.json.
 // The house reads the post from X (first picture + text) and the judge
